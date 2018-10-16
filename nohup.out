@@ -1,0 +1,35 @@
+[I 17:49:40.610 NotebookApp] JupyterLab beta preview extension loaded from /data1/homes/duaa/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 17:49:40.610 NotebookApp] JupyterLab application directory is /data1/homes/duaa/anaconda3/share/jupyter/lab
+[I 17:49:40.617 NotebookApp] Serving notebooks from local directory: /data1/Code/Duaa
+[I 17:49:40.617 NotebookApp] 0 active kernels
+[I 17:49:40.617 NotebookApp] The Jupyter Notebook is running at:
+[I 17:49:40.617 NotebookApp] http://localhost:8889/?token=967b974d433878888bcdc3e909b1b0829404c66e10b16c3c
+[I 17:49:40.617 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:49:40.618 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=967b974d433878888bcdc3e909b1b0829404c66e10b16c3c
+[W 17:49:43.637 NotebookApp] 404 GET /api/kernels/6aac0843-99f9-4168-9a15-c537dd60d17c/channels?session_id=f4b9713bf6e7434e81688844d47e2875 (::1): Kernel does not exist: 6aac0843-99f9-4168-9a15-c537dd60d17c
+[W 17:49:43.732 NotebookApp] 404 GET /api/kernels/6aac0843-99f9-4168-9a15-c537dd60d17c/channels?session_id=f4b9713bf6e7434e81688844d47e2875 (::1) 132.90ms referer=None
+[W 17:49:50.256 NotebookApp] 404 GET /api/kernels/6aac0843-99f9-4168-9a15-c537dd60d17c/channels?session_id=e76545256889470eb18c6686f3654950 (::1): Kernel does not exist: 6aac0843-99f9-4168-9a15-c537dd60d17c
+[W 17:49:50.258 NotebookApp] 404 GET /api/kernels/6aac0843-99f9-4168-9a15-c537dd60d17c/channels?session_id=e76545256889470eb18c6686f3654950 (::1) 4.87ms referer=None
+[W 17:50:00.028 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:f4b9713bf6e7434e81688844d47e2875
+[W 17:50:34.658 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:e76545256889470eb18c6686f3654950
+[I 17:50:35.245 NotebookApp] 302 GET /?token=967b974d433878888bcdc3e909b1b0829404c66e10b16c3c (::1) 0.68ms
+[I 17:50:42.598 NotebookApp] Kernel started: 32259f0b-2044-45ab-8293-c3f0e7c980a5
+[W 17:51:16.637 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:f4b9713bf6e7434e81688844d47e2875
+[I 17:52:09.530 NotebookApp] Adapting to protocol v5.1 for kernel 32259f0b-2044-45ab-8293-c3f0e7c980a5
+[W 17:52:09.547 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:e76545256889470eb18c6686f3654950
+[W 17:52:29.878 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:f4b9713bf6e7434e81688844d47e2875
+[I 17:52:42.606 NotebookApp] Saving file at /V4_Building CNN_droput_64.ipynb
+2018-05-28 17:53:30.419547: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2018-05-28 17:53:30.419589: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+[W 17:53:33.609 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:e76545256889470eb18c6686f3654950
+[I 17:54:43.344 NotebookApp] Saving file at /V4_Building CNN_droput_64.ipynb
+[I 17:54:43.414 NotebookApp] Saving file at /V4_Building CNN_droput_64.ipynb
+[I 17:54:43.495 NotebookApp] Starting buffering for 32259f0b-2044-45ab-8293-c3f0e7c980a5:47a081fd70cd4d81a7170269c12af1e8
+[W 17:54:55.400 NotebookApp] Replacing stale connection: 6aac0843-99f9-4168-9a15-c537dd60d17c:f4b9713bf6e7434e81688844d47e2875
+[C 09:50:26.372 NotebookApp] received signal 15, stopping
+[I 09:50:26.373 NotebookApp] Shutting down 1 kernel
+[I 09:50:26.485 NotebookApp] Kernel shutdown: 32259f0b-2044-45ab-8293-c3f0e7c980a5
